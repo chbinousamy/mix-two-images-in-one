@@ -6,4 +6,4 @@ Trainable variable is an image itself. Loss is a mix of two losses - pixelwise d
 
 In image above loss for first label multiplied by 0.1.
 
-Images were published somewhere under creative commons. Source code is free, you can use it for any purpose.
+Images were published on wikipedia under creative commons. Source code is free, you can use it for any purpose.
